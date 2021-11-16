@@ -1,0 +1,44 @@
+2021-11-13 11:05:27,656 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 11:05:27,664 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="cb5d890703ad29d991ac085bf91b9274")>
+2021-11-13 11:09:05,770 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 11:09:05,771 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="28ee7679e22f192935fb94b6bb4bc632")>
+2021-11-13 15:15:47,283 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:15:47,287 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="db6cebf47cb16ff5f74513eeeea009ba")>
+2021-11-13 15:18:56,123 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:18:56,125 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="8ca4863a6d8a7eb80159879b8e88e1df")>
+2021-11-13 15:19:29,144 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:19:29,145 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="300edd2b1c98f2a6c6145aa85c2f36e0")>
+2021-11-13 15:21:25,958 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:21:25,959 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="783b802abdbd8d336002aad1f52d6271")>
+2021-11-13 15:22:06,899 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:22:06,901 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="72bec6e0109681310bb9061e473ceff2")>
+2021-11-13 15:23:48,658 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:23:48,658 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="073dc6191499db8a91b138bb27120862")>
+2021-11-13 15:25:14,902 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:25:14,903 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="7e96ccffbd8892e737f8aba3f7ff6f91")>
+2021-11-13 15:25:51,991 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:25:51,991 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="9890fc72d69ea0afbd983d12308967a6")>
+2021-11-13 15:27:18,374 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:27:18,375 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="64d47ee59fba907ede535b3a281353a1")>
+2021-11-13 15:28:14,681 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:28:14,682 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="0c1f59c20cadc9cf009ade50f1384a81")>
+2021-11-13 15:29:01,716 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:29:01,716 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="8c384f30f7b8c67f195a9f8e0f492a5b")>
+2021-11-13 15:32:04,137 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:32:04,138 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="0225561de9c2a805dbdfdc4e8860e977")>
+2021-11-13 15:32:26,784 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:32:26,785 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="6b757c0a2179d880c9efad058718401a")>
+2021-11-13 15:35:54,224 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:35:54,224 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="93e1a530af585af5c32162b106bfa042")>
+2021-11-13 15:39:35,116 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:39:35,117 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="ce0f22b36f86b0357b0ed77a63df127b")>
+2021-11-13 15:44:23,698 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:44:23,700 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="f79b07900a8eef28c70ec3fedb6d91c8")>
+2021-11-13 15:44:59,309 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:44:59,309 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="bad038d48786f7fbc66de4f41c24dbb0")>
+2021-11-13 15:54:08,966 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:54:08,967 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="b462533a074dce0864f893ce415aa16f")>
+2021-11-13 15:55:58,752 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:55:58,752 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="5594b73745d4013e678838fc77c21e2d")>
+2021-11-13 15:57:39,967 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-11-13 15:57:39,967 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="c618949c573daba84a928c7ff1bb7fec")>

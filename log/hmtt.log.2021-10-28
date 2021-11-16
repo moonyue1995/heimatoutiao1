@@ -1,0 +1,163 @@
+2021-10-28 15:01:47,826 INFO [main_page.py(main_login:25)] - 正在对初始化统一入口类
+2021-10-28 15:01:47,828 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="32af50e5b654b183166121e6d7f66b32")>
+2021-10-28 15:01:47,834 INFO [page_login.py(page_input_username:25)] - 输入用户名
+2021-10-28 15:01:47,834 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='请输入手机号']")
+2021-10-28 15:01:47,846 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 15:01:47,892 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 15:01:50,929 INFO [page_login.py(page_input_verify_code:30)] - 输入验证码
+2021-10-28 15:01:50,929 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='验证码']")
+2021-10-28 15:01:50,942 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 15:01:50,969 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 15:01:54,014 INFO [page_login.py(page_login_click:35)] - 点击登陆按钮
+2021-10-28 15:01:54,015 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 15:01:54,015 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//button[@class='el-button el-button--primary']")
+2021-10-28 15:01:57,062 INFO [base.py(base_get_text:70)] - 正在获取元素信息
+2021-10-28 15:01:57,063 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//span[@class='company-container']")
+2021-10-28 15:01:57,087 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 15:01:57,088 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//div[@class='el-notification__closeBtn el-icon-close']")
+2021-10-28 15:01:57,124 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 15:01:57,124 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//span[@class='user-name']")
+2021-10-28 15:02:02,495 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 15:02:02,495 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//li[@class='el-dropdown-menu__item el-dropdown-menu__item--divided']")
+2021-10-28 15:02:02,567 INFO [base.py(base_get_text:70)] - 正在获取元素信息
+2021-10-28 15:02:02,567 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//button[@class='el-button el-button--primary']")
+2021-10-28 15:02:02,595 INFO [page_login.py(page_input_username:25)] - 输入用户名
+2021-10-28 15:02:02,596 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='请输入手机号']")
+2021-10-28 15:02:02,621 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 15:02:02,695 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 15:02:05,812 INFO [page_login.py(page_input_verify_code:30)] - 输入验证码
+2021-10-28 15:02:05,813 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='验证码']")
+2021-10-28 15:02:05,824 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 15:02:05,852 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 15:02:08,897 INFO [page_login.py(page_login_click:35)] - 点击登陆按钮
+2021-10-28 15:02:08,897 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 15:02:08,897 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//button[@class='el-button el-button--primary']")
+2021-10-28 15:02:11,929 INFO [base.py(base_get_text:70)] - 正在获取元素信息
+2021-10-28 15:02:11,929 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//button[@class='el-button el-button--primary']")
+2021-10-28 15:02:12,534 INFO [base.py(base_get_text:70)] - 正在获取元素信息
+2021-10-28 15:02:12,534 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//button[@class='el-button el-button--primary']")
+2021-10-28 15:02:12,555 INFO [page_login.py(page_input_username:25)] - 输入用户名
+2021-10-28 15:02:12,555 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='请输入手机号']")
+2021-10-28 15:02:12,567 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 15:02:12,604 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 15:02:15,636 INFO [page_login.py(page_input_verify_code:30)] - 输入验证码
+2021-10-28 15:02:15,636 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='验证码']")
+2021-10-28 15:02:15,641 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 15:02:15,663 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 15:02:18,727 INFO [page_login.py(page_login_click:35)] - 点击登陆按钮
+2021-10-28 15:02:18,728 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 15:02:18,728 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//button[@class='el-button el-button--primary']")
+2021-10-28 15:02:21,756 INFO [base.py(base_get_text:70)] - 正在获取元素信息
+2021-10-28 15:02:21,756 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//button[@class='el-button el-button--primary']")
+2021-10-28 15:02:22,344 INFO [base.py(base_get_text:70)] - 正在获取元素信息
+2021-10-28 15:02:22,344 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//button[@class='el-button el-button--primary']")
+2021-10-28 15:02:22,357 INFO [page_login.py(page_input_username:25)] - 输入用户名
+2021-10-28 15:02:22,358 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='请输入手机号']")
+2021-10-28 15:02:22,362 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 15:02:22,398 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 15:02:25,458 INFO [page_login.py(page_input_verify_code:30)] - 输入验证码
+2021-10-28 15:02:25,458 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='验证码']")
+2021-10-28 15:02:25,464 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 15:02:25,479 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 15:02:28,519 INFO [page_login.py(page_login_click:35)] - 点击登陆按钮
+2021-10-28 15:02:28,520 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 15:02:28,520 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//button[@class='el-button el-button--primary']")
+2021-10-28 15:02:31,550 INFO [base.py(base_get_text:70)] - 正在获取元素信息
+2021-10-28 15:02:31,551 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//button[@class='el-button el-button--primary']")
+2021-10-28 15:03:09,105 INFO [main_page.py(main_login:25)] - 正在对初始化统一入口类
+2021-10-28 15:03:09,105 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="2f5a7163fee6c2d858b33e9f3005d30f")>
+2021-10-28 15:03:09,106 INFO [page_login.py(page_input_username:25)] - 输入用户名
+2021-10-28 15:03:09,106 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='请输入手机号']")
+2021-10-28 15:03:09,120 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 15:03:09,155 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 15:03:12,213 INFO [page_login.py(page_input_verify_code:30)] - 输入验证码
+2021-10-28 15:03:12,214 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='验证码']")
+2021-10-28 15:03:12,225 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 15:03:12,253 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 15:03:15,280 INFO [page_login.py(page_login_click:35)] - 点击登陆按钮
+2021-10-28 15:03:15,280 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 15:03:15,280 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//button[@class='el-button el-button--primary']")
+2021-10-28 15:03:18,333 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 15:03:18,333 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', '//div[2]//li[1]//div[1]//span[1]')
+2021-10-28 15:03:22,384 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 15:03:22,385 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//*[contains(text(),'发布文章')]")
+2021-10-28 15:03:25,437 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='文章名称']")
+2021-10-28 15:03:25,455 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 15:03:25,478 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 15:03:28,613 INFO [base.py(base_find_element:31)] - 查找元素的方法('css selector', '#publishTinymce_ifr')
+2021-10-28 15:03:28,641 INFO [base.py(base_find_element:31)] - 查找元素的方法('css selector', '#tinymce')
+2021-10-28 15:03:28,648 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 15:03:28,668 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 15:03:31,780 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 15:03:31,780 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//div[@class='single_pic']//img")
+2021-10-28 15:03:34,864 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 15:03:34,864 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//div[@id='pane-first']//div[1]//img[1]")
+2021-10-28 15:03:34,910 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//button[@class='el-button el-button--primary']//span")
+2021-10-28 15:03:34,923 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 15:03:34,923 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//button[@class='el-button el-button--primary']//span")
+2021-10-28 16:01:48,269 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="a8bcbcbbb846b89bf7cf230b300664ac")>
+2021-10-28 16:01:48,271 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-10-28 16:01:48,271 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="a8bcbcbbb846b89bf7cf230b300664ac")>
+2021-10-28 16:01:48,271 INFO [page_login.py(page_input_username:25)] - 输入用户名
+2021-10-28 16:01:48,272 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='请输入手机号']")
+2021-10-28 16:01:48,298 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 16:01:48,330 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 16:01:51,368 INFO [page_login.py(page_input_verify_code:30)] - 输入验证码
+2021-10-28 16:01:51,368 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='验证码']")
+2021-10-28 16:01:51,381 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 16:01:51,407 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 16:01:54,435 INFO [page_login.py(page_login_click:35)] - 点击登陆按钮
+2021-10-28 16:01:54,435 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 16:01:54,436 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//button[@class='el-button el-button--primary']")
+2021-10-28 16:01:57,481 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-10-28 16:01:57,482 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="a8bcbcbbb846b89bf7cf230b300664ac")>
+2021-10-28 16:01:57,496 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 16:01:57,496 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//div[@class='el-notification__closeBtn el-icon-close']")
+2021-10-28 16:01:57,535 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 16:01:57,535 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//span[@class='user-name']")
+2021-10-28 16:02:02,959 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 16:02:02,959 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//li[contains(text(),'git')]")
+2021-10-28 16:08:21,841 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="e9dcc5f44c3438d416b3095e827485d6")>
+2021-10-28 16:08:21,843 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-10-28 16:08:21,844 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="e9dcc5f44c3438d416b3095e827485d6")>
+2021-10-28 16:08:21,844 INFO [page_login.py(page_input_username:25)] - 输入用户名
+2021-10-28 16:08:21,844 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='请输入手机号']")
+2021-10-28 16:08:21,900 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 16:08:21,969 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 16:08:25,020 INFO [page_login.py(page_input_verify_code:30)] - 输入验证码
+2021-10-28 16:08:25,021 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='验证码']")
+2021-10-28 16:08:25,032 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 16:08:25,061 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 16:08:28,089 INFO [page_login.py(page_login_click:35)] - 点击登陆按钮
+2021-10-28 16:08:28,090 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 16:08:28,090 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//button[@class='el-button el-button--primary']")
+2021-10-28 16:08:31,139 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-10-28 16:08:31,140 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="e9dcc5f44c3438d416b3095e827485d6")>
+2021-10-28 16:08:31,149 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 16:08:31,149 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//div[@class='el-notification__closeBtn el-icon-close']")
+2021-10-28 16:08:31,188 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 16:08:31,188 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//span[@class='user-name']")
+2021-10-28 16:08:36,557 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 16:08:36,557 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//li[contains(text(),'git')]")
+2021-10-28 16:11:06,614 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="6c4a2470dc3bbc1bb1897dbecded92da")>
+2021-10-28 16:11:06,614 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-10-28 16:11:06,614 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="6c4a2470dc3bbc1bb1897dbecded92da")>
+2021-10-28 16:11:06,614 INFO [page_login.py(page_input_username:25)] - 输入用户名
+2021-10-28 16:11:06,614 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='请输入手机号']")
+2021-10-28 16:11:06,628 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 16:11:06,665 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 16:11:09,728 INFO [page_login.py(page_input_verify_code:30)] - 输入验证码
+2021-10-28 16:11:09,728 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//input[@placeholder='验证码']")
+2021-10-28 16:11:09,740 INFO [base.py(base_input:51)] - 正在对元素进行清空操作：
+2021-10-28 16:11:09,769 INFO [base.py(base_input:60)] - 正在对元素进行输入操作
+2021-10-28 16:11:12,798 INFO [page_login.py(page_login_click:35)] - 点击登陆按钮
+2021-10-28 16:11:12,798 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 16:11:12,798 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//button[@class='el-button el-button--primary']")
+2021-10-28 16:11:15,844 INFO [main_page.py(main_login:26)] - 正在对初始化统一入口类
+2021-10-28 16:11:15,845 INFO [base.py(__init__:25)] - 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="6c4a2470dc3bbc1bb1897dbecded92da")>
+2021-10-28 16:11:15,853 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 16:11:15,853 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//div[@class='el-notification__closeBtn el-icon-close']")
+2021-10-28 16:11:15,891 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 16:11:15,892 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//span[@class='user-name']")
+2021-10-28 16:11:21,268 INFO [base.py(base_click:65)] - 正在对元素进行点击操作
+2021-10-28 16:11:21,269 INFO [base.py(base_find_element:31)] - 查找元素的方法('xpath', "//li[contains(text(),'git')]")

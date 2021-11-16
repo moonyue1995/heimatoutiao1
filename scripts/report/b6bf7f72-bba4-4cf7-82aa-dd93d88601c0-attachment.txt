@@ -1,0 +1,2 @@
+INFO     root:main_page.py:26 正在对初始化统一入口类
+INFO     root:base.py:25 正在初始化driver <selenium.webdriver.chrome.webdriver.WebDriver (session="db6cebf47cb16ff5f74513eeeea009ba")>

@@ -1,0 +1,21 @@
+test01_login:
+  test01_login_01:
+    username: ""
+    code: ""
+    expect: "江苏传智播客教育科技股份有限公司"
+    state: "true"
+  test01_login_02:
+    username: "1"
+    code: ""
+    expect: "登陆"
+    state: "false"
+  test01_login_03:
+    username: ""
+    code: "1"
+    expect: "登陆"
+    state: "false"
+  test01_login_04:
+    username: "!@@##$"
+    code: ""
+    expect: "登陆"
+    state: "false"
